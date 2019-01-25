@@ -1,0 +1,12 @@
+{
+	"EmailAsUid": true,
+	"JITCreation": false,
+	"JITUpdate": false,
+	:LKeepMeSignedIn": true,
+	"KeepMe SignedInDuration": 14,
+	"RememberMyLoginId": true,
+	"RememberMyLoginIdDuration": 30,
+	"schemas": [
+		"urm:cisco:codec:identity:idbroker:authenconfig:schemas:1.0"
+	]
+}
